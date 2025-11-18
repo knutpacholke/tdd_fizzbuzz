@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/tdd_fizzbuzz_test.dir/link.d CMakeFiles/tdd_fizzbuzz_test.dir/test_tdd_fizzbuzz.cpp.o -o tdd_fizzbuzz_test  ../liblibfizzbuzz.a -lgtest -lgtest_main -lpthread
